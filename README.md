@@ -96,10 +96,12 @@ endmodule
 ```
 
 **RTL Schematic**
-![alt text](<Screenshot 2025-11-17 213629.png>)
+<img width="1920" height="1080" alt="Screenshot 2025-11-17 214300" src="https://github.com/user-attachments/assets/5ea11b96-4258-4a2f-af85-da83e6e07bd0" />
+
 
 **Output Timing Waveform**
-![alt text](<Screenshot 2025-11-17 214300.png>)
+<img width="1920" height="1080" alt="Screenshot 2025-11-17 213629" src="https://github.com/user-attachments/assets/bba81b61-b630-40a8-9fe0-cacea61e5abf" />
+
 
 **Result:**
 
